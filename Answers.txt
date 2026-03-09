@@ -1,1 +1,16 @@
+https://www.netsuite.com/portal/resource/articles/erp/retail-industry-challenges.shtml
 
+a. What problem needs to be solved?
+Large retail stores often struggle with inventory management. They don't know exactly how much of a product to keep on their shelves.
+
+b. How was programming used to solve the problem?
+Programming was used to pull in massive amounts of data, like past sales, local weather forecasts, and upcoming holidays.
+
+c. What challenges were faced during the process?
+Handling data for thousands of stores at once is a lot of data that can slow down regular computers.
+
+d. What solutions were implemented to overcome these challenges?
+They moved their code to Google Cloud which allows the program to use as much processing power as it needs instantly.
+
+e. Explain the problem, how programming helped, and the final solution.
+If you owned 500 grocery stores. It's impossible to guess exactly how much milk to buy for every single store every day. You'll either end up throwing away spoiled milk or having empty shelves. Instead of you guessing, programmers made a computer that does the math. It looks at the weather, the date, and even local events to tell the store owner exactly what to order. 
